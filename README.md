@@ -1,3 +1,6 @@
+# Branch Note:
+This branch, "Inverted" is identical to the main branch, but, all motors will move in the opposite direction. Use this branch if your robot moves backwards on the main.
+
 # FLS Sumo Code:
 
 ## FILES AND HOW TO EDIT THEM:
